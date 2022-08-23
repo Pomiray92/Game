@@ -20,7 +20,7 @@ while True:
                     print("Unfortunately you do not know how to fly... Game is over!")
                 else:
                     print("You won")
-
+                # I give some koment here and would like to commit it
 
 
         elif answer == "reigth": 
