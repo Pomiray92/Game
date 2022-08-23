@@ -30,5 +30,5 @@ while True:
             print("Invalid choice, you lost!")      
 
     else:
-        print("That's to bad")
+        print("Maybe next Time. Bye!")
         break    
