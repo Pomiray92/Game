@@ -1,6 +1,6 @@
 while True:
 
-    dsf dsd s dss 
+    dsf asjd asdka sdkhasda
     answer = input("What you like to play  (yes/no)  ")
 
     if answer.lower().strip() == "yes":
